@@ -1,0 +1,1 @@
+mysqldump -h sportshistorycollectibles.com -u h1d12702854949 -p xj24si*4Uh-k > c:\backup\h1d12702854949.sql
